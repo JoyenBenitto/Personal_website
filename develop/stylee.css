@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: cursive;
+    color:white;
+  }
+  
+  h1 {
+    margin-top: 0;
+    bottom:100px;
+    position: relative;
+    top: 150px;
+    font-style: italic;
+    width: 30%;
+    margin: 0 auto;
+    font-size: 60px;
+  }
+  .mountain{
+    height: 800px;
+    position: relative;
+    bottom: 50px;
+  }
+  .p1{
+    position: relative;
+    top: 150px;
+    width: 30%;
+    margin: 0 auto;
+    font-size: 40px;
+    font-style: italic;
+  }
+  .greetings{
+  position: relative;
+  bottom: 120px;
+  right: 200px;
+  font-style: italic;
+  }
+  .sticker1{
+    height: 200px;
+  
+    position: relative;
+    top: 100px;
+    right:450px;
+  
+  }
+  .mind{
+    position: relative;
+    bottom:150px;
+    right:145px;
+  }
+  .sticker2{
+    height: 150px;
+  
+    position: relative;
+    left: 400px;
+    top:50px;
+  }
+  .wedo{
+    position: relative;
+    bottom: 120px;
+    left: 100px;
+  
+  }
+  .sticker3{
+    position : relative;
+    right: 450px;
+    top:50px;
+    height: 200px;
+  }
+  
+  .topcontainer {
+    background-color: #202040;
+    height: 50%;
+    width: 100%;
+  
+    position: relative;
+  
+  }
+  .middlecontainer{
+    background-color: #202040;
+    height: 50%;
+    width: 100%;
+  
+    position: relative;
+  
+  
+  }
+  
+  .contactme{
+    background-color: white;
+    height: 50%;
+    width: 100%;
+    color: black;
+    position: relative;
+  
+  }
+  .insta{
+    height: 40px;
+    position: relative;
+  }
+  .faceb{
+    height: 40px;
+    position: relative;
+  
+  }
+  .gmail{
+    height: 40px;
+    position: relative;
+  
+  
+  }
+  
